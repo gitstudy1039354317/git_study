@@ -25,5 +25,9 @@ zxcvx
 
 yxp
 aaaa
+<<<<<<< HEAD
 
 git_study
+=======
+drag2
+>>>>>>> 5e66b7155629c99796cfaee503fc8d728d748405
